@@ -1,3 +1,4 @@
-NAMA: ROHESA
-KELAS: XII RPL3
-ALAMAT: KP BOJONG TANJUNG
+NAMA: jahran
+KELAS: XI RPL3
+ALAMAT: situ tarate 5
+cita-cita: sukses dunia ahirat
